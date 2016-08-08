@@ -1,0 +1,28 @@
+_repo: The-Fourth-Dimensional-Reaches-of-the-Exposition--San-Francisco-1915_12010
+_version: 0.0.1
+alternative_title: The Fourth Dimensional Reaches of the Panama-Pacific International
+  Exposition
+creator:
+  author:
+    agent_name: Williams, Cora Lenore
+    birthdate: 1865
+    deathdate: 1937
+    gutenberg_agent_id: '4175'
+    url: http://www.gutenberg.org/2009/agents/4175
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12010'
+  lccn: '15027961'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TC'
+- !lcsh 'Panama-Pacific International Exposition (1915 : San Francisco, Calif.)'
+- !lcc 'BP'
+- GITenberg
+title: 'The Fourth-Dimensional Reaches of the Exposition: San Francisco, 1915'
+url: http://www.gutenberg.org/ebooks/12010
