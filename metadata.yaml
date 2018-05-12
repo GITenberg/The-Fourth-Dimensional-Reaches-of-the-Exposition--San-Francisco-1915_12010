@@ -1,7 +1,10 @@
 _repo: The-Fourth-Dimensional-Reaches-of-the-Exposition--San-Francisco-1915_12010
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: The Fourth Dimensional Reaches of the Panama-Pacific International
   Exposition
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Williams, Cora Lenore
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '4175'
     url: http://www.gutenberg.org/2009/agents/4175
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12010#The-Fourth-Dimensional-Reaches-of-the-Exposition--San-Francisco-1915
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
